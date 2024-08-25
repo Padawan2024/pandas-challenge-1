@@ -1,1 +1,1 @@
-# pandas-challenge-1
+Learned how to update a dictionary using a [YouTube Video](https://www.youtube.com/watch?v=q5Nn70tyotM). I used [Pandas Documentation](https://pandas.pydata.org/docs/user_guide/merging.html) to learn how to join two dataframes.
